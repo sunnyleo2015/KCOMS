@@ -9,6 +9,9 @@ export class SettingComponent implements OnInit {
   _allChecked = false;
   _indeterminate = false;
   _displayData = [];
+
+  pi: number = 3.141592;
+
   data = [ {
     name   : 'John Brown',
     age    : 32,

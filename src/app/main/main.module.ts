@@ -20,6 +20,7 @@ import { PositionComponent } from './position/position.component';
 
 import { StationService } from '../service/station.service';
 import { MethodService } from  '../service/method.service';
+import { HighchartComponent } from './spick/highchart/highchart.component';
 
 
 
@@ -50,7 +51,8 @@ import { MethodService } from  '../service/method.service';
     EditorComponent,
     SynchronousFormComponent,
     ChartComponent,
-    PositionComponent
+    PositionComponent,
+    HighchartComponent,
   ],
   entryComponents: [
     MainComponent

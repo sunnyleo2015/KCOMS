@@ -24,7 +24,7 @@
     "core-js": "^2.4.1",
     "echarts": "^3.6.2",
     "lodash": "^4.17.4",
-    "ng-zorro-antd": "^0.5.0-rc.3",
+    "ng-zorro-antd": "^0.5.2-rc.3",
     "rebirth-ng": "0.0.20",
     "rxjs": "^5.1.0",
     "three": "^0.86.0",
